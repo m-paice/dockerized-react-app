@@ -1,9 +1,0 @@
-.container-console {
-  grid-area: console;
-
-  background: rgb(36, 36, 36);
-}
-
-.container-console .scroll-console {
-  height: 100%;
-}
